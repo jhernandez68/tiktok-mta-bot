@@ -53,7 +53,7 @@ TikTokLive
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/mta-ai-streamer.git](https://github.com/jhernandez68/tiktok-mta-bot
+git clone https://github.com/jhernandez68/tiktok-mta-bot
 ```
 
 ### 2. Crear entorno virtual
